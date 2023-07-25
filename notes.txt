@@ -1,0 +1,101 @@
+make the title of the figures shorter...
+
+line 21. there is no need to go to paraghraph. title of fig should be so descriptive.
+
+its needed to show the main reason.the last thing landscape th whole page.
+if its high, add high quality images on clud.
+
+prof dr .
+
+
+set 22:
+
+
+E:
+fill it
+
+J: 6 clients
+clean_data=clean_data.iloc[250000:500000]
+250000
+2022-10-26 12:31:04.689065433
+2022-10-26 12:40:47.132781902
+
+W: the short stable part of J
+
+clean_data=clean_data.iloc[299654:333637]
+38569
+2022-10-26 12:32:59.942439591
+2022-10-26 12:34:34.512594738
+
+K: 6 clients
+clean_data = clean_data.iloc[1400000:1440000]
+40000
+2022-10-27 12:19:01.653557111
+2022-10-27 12:33:38.955155714
+
+L: 6 clients
+clean_data = clean_data.iloc[1400000:1480000]
+80000
+2022-10-27 12:19:01.653557111
+2022-10-27 13:04:03.513399340
+
+M: 1 client (1 other is sending some sparse packets)
+clean_data=clean_data.iloc[1289260:1296840]
+7580
+2022-10-26 18:11:17.891176202
+2022-10-26 18:18:00.175825152
+
+b3 stable
+
+Q: 1 client (2 others are sending some sparse packets)
+clean_data=clean_data.iloc[3308074:,:]
+7596
+2022-10-28 19:10:54.358791402
+2022-10-28 19:23:24.689063366
+
+R: one client
+clean_data=clean_data.iloc[1299639:1300450]
+811
+2022-10-27 07:49:29.918203938
+2022-10-27 08:00:35.346249752
+
+S: one client
+clean_data=clean_data.iloc[1604500:1604767]
+267
+2022-10-27 15:19:17.716904632
+2022-10-27 15:28:50.567506088
+
+
+set 24:
+
+#segmentad
+
+T: many clients
+clean_data=clean_data.iloc[231154:248625]
+17471
+2022-11-02 13:51:10.453692508
+2022-11-02 14:00:03.463846361
+
+U: one client
+clean_data=clean_data.iloc[473415:481705]
+8290
+2022-11-02 16:31:59.797204489
+2022-11-02 16:39:15.176785493
+
+-----------------------------
+set 22
+b0:f1:d8:50:92:c1
+350045
+label_str: G1
+index_range_str: 1652-351697
+2022-10-26 12:00:00.802627670
+2022-10-26 13:00:00.001676314
+--------------------------------
+set 22
+b0:f1:d8:50:92:c1
+19112
+label_str: G2
+index_range_str: 431070-450182
+2022-10-26 15:00:01.192631709
+2022-10-26 15:59:58.663128039
+-------------------------------
